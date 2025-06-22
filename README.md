@@ -46,7 +46,7 @@ Bu proje, **Clomosy** platformu kullanılarak geliştirilen etkileşimli bir **m
 
 | Weather       | Background Preview | Sound |
 |---------------|--------------------|-------|
-| **Sunny**     | ![Sunny](<img src="https://github.com/the15developer/WEATHER-MOBILE-APP-CLOMOSY/blob/main/sunny.jpeg" alt="Sunny" width="300"/>) | Sunny ambient |
+| **Sunny**     | ![Sunny](https://github.com/the15developer/WEATHER-MOBILE-APP-CLOMOSY/blob/main/sunny.jpeg) | Sunny ambient |
 | **Rainy**     | ![Rainy](https://github.com/the15developer/WEATHER-MOBILE-APP-CLOMOSY/blob/main/rainy.jpeg) | Rain sound |
 | **Cloudy**    | ![Cloudy](https://github.com/the15developer/WEATHER-MOBILE-APP-CLOMOSY/blob/main/cloudy.jpeg) | Cloudy |
 | **Clear**     | ![Clear](https://github.com/the15developer/WEATHER-MOBILE-APP-CLOMOSY/blob/main/clear.jpeg) | Clear |
